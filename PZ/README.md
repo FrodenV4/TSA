@@ -3,7 +3,7 @@
 | TASK | STATE |
 |------|-------|
 | 1.3  | 🟢 DONE |
-| 1.5  | 🟡 WORK |
+| 1.5  | 🟢 DONE |
 | 2.2  | 🟢 DONE |
 | 3.3  | 🔴 TODO |
 | 4.2  | 🟢 DONE |
