@@ -2,10 +2,8 @@
 
 ## 📚 Lessons
 
-- 📁 [PZ](./PZInfo)
-- 📁 [PZ](./PZDontFull)
-- 📁 [GZ](./GZInfo)
-- 📁 [GZ](./Files)
+- 📁 [PZ](./info)
+- 📁 [GZ](./files)
 
 ----------------------------------------
 
