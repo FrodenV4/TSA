@@ -11,3 +11,4 @@
 
 Практика по системному администрированию  
 Ubuntu / SSH / SCP / RSYNC
+by froden
